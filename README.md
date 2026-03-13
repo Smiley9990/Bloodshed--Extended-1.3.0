@@ -14,7 +14,7 @@
 - **New Traitor items** — expanded arsenal for killer-based modes
 - **Armor system** — character protection mechanics
 
-### 🎮 New Modes (50+)
+### New Modes (50+)
 
 | ID | Mode | Description |
 |----|------|-------------|
