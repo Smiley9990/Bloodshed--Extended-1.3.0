@@ -28,6 +28,27 @@
 
 ---
 
+## Debug Menu (F1 → Debug)
+
+Opened via **F1** → **Debug** tab. SuperAdmin required for spawn tools and Sandbox mode.
+
+### Sandbox Mode
+- **Enable Sandbox** (in Admin → Select mode) or `mur_sandboxtoggle` — enables debug: physgun, tool gun, noclip, instant spawn, no round timer, guilt disabled. For map setup and testing.
+
+### Spawn Points (SuperAdmin)
+Visualize and manage spawn locations. Saves blacklist per map to `bloodshed/spawn_blacklist_<map>.json`.
+
+| Option | Description |
+|--------|-------------|
+| Show all spawn points | `mur_debug_spawns 1` — display all spawn points in world |
+| Mode filter | `mur_spawn_debug_mode` — 0 = all, 54 = Combine vs Rebel (color by team) |
+| Block (stand on point) | `mur_spawn_debug_blacklist_add` — add current position to blacklist |
+| Unblock nearest | `mur_spawn_debug_blacklist_remove` — remove nearest blacklisted point |
+| Clear blacklist | `mur_spawn_debug_blacklist_clear` |
+| Refresh | Reload spawn points |
+
+---
+
 ## Map Setup Commands
 
 ### Hotline Miami: Extended (Mode 56)
