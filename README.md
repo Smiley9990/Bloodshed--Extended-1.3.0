@@ -32,11 +32,13 @@
 
 Opened via **F1** → **Debug** tab. SuperAdmin required for spawn tools and Sandbox mode.
 
-### Sandbox Mode
-- **Enable Sandbox** (in Admin → Select mode) or `mur_sandboxtoggle` — enables debug: physgun, tool gun, noclip, instant spawn, no round timer, guilt disabled. For map setup and testing.
+### Armor & Hitbox Display
+Visualize armor, bones and organ hitboxes on players. Useful for understanding damage mechanics and armor coverage.
+- **`mur_armor_debug`** — 0=Off, 1=Armor, 2=Bones, 3=Both, 4=Organs, 5=All
+- **`mur_debug_hp`** — show HP numbers (bottom left)
 
 ### Spawn Points (SuperAdmin)
-Visualize and manage spawn locations. Saves blacklist per map to `bloodshed/spawn_blacklist_<map>.json`.
+Visualize and manage spawn locations. Saves blacklist per map to `data/bloodshed/spawn_blacklist_<map>.json`.
 
 | Option | Description |
 |--------|-------------|
