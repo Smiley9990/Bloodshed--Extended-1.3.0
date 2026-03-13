@@ -4,7 +4,7 @@
 
 - __Original:__ [Bloodshed: Redux](https://steamcommunity.com/sharedfiles/filedetails/?id=3508448413) (Steam Workshop)
 - __Content:__ [Bloodshed: Extended](https://steamcommunity.com/sharedfiles/filedetails/?id=3647700470) (Steam Workshop)
-- __License:__ Creative Commons Attribution 4.0 International
+- __MyProfile:__ [Smiley]([https://steamcommunity.com/sharedfiles/filedetails/?id=3647700470](https://steamcommunity.com/profiles/76561198103415700/)) (Steam)
 
 ---
 
