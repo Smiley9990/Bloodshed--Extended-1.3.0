@@ -1,14 +1,15 @@
+**Note:** Much of this gamemode and content was made locally for a private group. Players are encouraged to modify modes, items, and settings to better suit their own servers and preferences.
+
+**⚠️ Redux Incompatible with Bloodshed: Extended** — do not use both. Choose one to avoid conflicts.
+
+***
 ---
 
 ## Links
 
-**⚠️ Incompatible with Bloodshed: Extended** — do not use both. Choose one to avoid conflicts.
-
 - __Original:__ [Bloodshed: Redux](https://steamcommunity.com/sharedfiles/filedetails/?id=3508448413) (Steam Workshop)
 - __Content:__ [Bloodshed: Extended](https://steamcommunity.com/sharedfiles/filedetails/?id=3647700470) (Steam Workshop)
 - __MyProfile:__ [Smiley](https://steamcommunity.com/profiles/76561198103415700/) (Steam)
-
-**Note:** Much of this gamemode and content was made locally for a private group. Players are encouraged to modify modes, items, and settings to better suit their own servers and preferences.
 
 ---
 
