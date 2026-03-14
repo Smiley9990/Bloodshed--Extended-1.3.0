@@ -1,6 +1,6 @@
 **Note:** Much of this gamemode and content was made locally for a private group. Players are encouraged to modify modes, items, and settings to better suit their own servers and preferences.
 
-**⚠️ Redux Incompatible with Bloodshed: Extended** — do not use both. Choose one to avoid conflicts.
+**⚠️ Redux Incompatible with Bloodshed: Extended** do not use both. Choose one to avoid conflicts.
 
 ---
 
