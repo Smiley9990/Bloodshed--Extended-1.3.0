@@ -2,7 +2,6 @@
 
 **⚠️ Redux Incompatible with Bloodshed: Extended** — do not use both. Choose one to avoid conflicts.
 
-***
 ---
 
 ## Links
